@@ -16,9 +16,10 @@ When evaluating the June and December summary of temperature collection, a few c
 |                       June Summary                        |                      December Summary                             |
 | --------------------------------------------------------- | ----------------------------------------------------------------  |
 | <img src="Images/June_Summary.png" alt="June Summary">    | <img src="Images/December_Summary.png" alt="December Summary">    |
-|                       June Sample                         |                      December Sample                              |
+
 
 |                       June Sample                         |                      December Sample                              |
+| --------------------------------------------------------- | ----------------------------------------------------------------  |
 | <img src="Images/June_Temp_Sample.png" alt="June Sample"> | <img src="Images/December_Temp_Sample.png" alt="December Sample"> |
 
 ## Summary
