@@ -12,13 +12,16 @@ When evaluating the June and December summary of temperature collection, a few c
 <li> The highest recorded temperature was 85 in June and 83 in December; again offering little variance in the two separate times of the year. The lowest recorded temperature is 64 in June and 56 in December; this is the largest variances in the temperature readings showing that December does have a higher probability of having unfavorable weather and drastic changes. </li>
 
 <li> The standard deviation in June is 3.26 versus 3.75 in December. Both standard deviations provide good predictability using the collected temperatures. June is expected to have a lower deviation due to collecting almost 200 more samples (1700 in June and 1517 in December). 
+<c><b>Summary</b></c>
 
-|                       June Summary                        |                      December Summary                             |
+|                       June                                |                      December                                     |
 | --------------------------------------------------------- | ----------------------------------------------------------------  |
 | <img src="Images/June_Summary.png" alt="June Summary">    | <img src="Images/December_Summary.png" alt="December Summary">    |
 
 
-|                       June Sample                         |                      December Sample                              |
+
+<c><b>Sample Collections</b></c>
+|                       June                                |                      December                                     |
 | --------------------------------------------------------- | ----------------------------------------------------------------  |
 | <img src="Images/June_Temp_Sample.png" alt="June Sample"> | <img src="Images/December_Temp_Sample.png" alt="December Sample"> |
 
