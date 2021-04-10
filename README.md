@@ -13,7 +13,8 @@ When evaluating the June and December summary of temperature collection, a few c
 
 <li> The standard deviation in June is 3.26 versus 3.75 in December. Both standard deviations provide good predictability using the collected temperatures. June is expected to have a lower deviation due to collecting almost 200 more samples (1700 in June and 1517 in December). 
 <br>
-<c><b>Summary</b></c>
+<br>
+<b>Summary</b>
 
 |                       June                                |                      December                                     |
 | --------------------------------------------------------- | ----------------------------------------------------------------  |
@@ -21,7 +22,7 @@ When evaluating the June and December summary of temperature collection, a few c
 
 
 
-<c><b>Sample Collections</b></c>
+<b>Sample Collections</b>
 |                       June                                |                      December                                     |
 | --------------------------------------------------------- | ----------------------------------------------------------------  |
 | <img src="Images/June_Temp_Sample.png" alt="June Sample"> | <img src="Images/December_Temp_Sample.png" alt="December Sample"> |
